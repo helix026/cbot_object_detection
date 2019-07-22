@@ -8,3 +8,8 @@ item {
   name: 'mesh'
 }
 
+item {
+  id: 3
+  name: 'face'
+}
+
